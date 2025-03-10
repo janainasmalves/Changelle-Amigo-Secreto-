@@ -22,7 +22,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📸 Captura de Tela
 
-![Imagem do projeto](assets/preview.png)
+![Imagem do projeto](assets/tela.png)
 
 ## 🔧 Como Executar o Projeto
 
