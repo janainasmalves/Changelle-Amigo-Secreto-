@@ -28,5 +28,5 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/janainasmalves/amigo-secreto.git
 
