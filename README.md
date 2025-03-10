@@ -44,9 +44,9 @@ Sorteio Aleatório: A utilização de Math.random() para sortear de forma justa 
 Atualização Dinâmica da Interface: A maneira como o DOM é manipulado para refletir as mudanças no array de amigos em tempo real.
 Validação de Entrada: A implementação da verificação para evitar nomes vazios, garantindo que o usuário insira dados válidos antes de prosseguir com o sorteio.
 ## 🛠️ Melhorias Futuras
- Adicionar a funcionalidade de remover nomes da lista.
- Implementar a verificação para evitar nomes duplicados.
- Melhorar a responsividade e o design da aplicação.
- Incluir animações para tornar o sorteio mais interativo.
+- Adicionar a funcionalidade de remover nomes da lista.
+- Implementar a verificação para evitar nomes duplicados.
+- Melhorar a responsividade e o design da aplicação.
+- Incluir animações para tornar o sorteio mais interativo.
 
  Feito com ❤️ janainasmalves!
