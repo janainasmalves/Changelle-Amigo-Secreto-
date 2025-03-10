@@ -32,17 +32,17 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
    git clone https://github.com/janainasmalves/amigo-secreto.git
 ## 🔍 Desafios e Aprendizados
 - **Quais foram os desafios que eu encontrei**
-Manipulação do DOM: Integrar a lógica de manipulação do DOM com a validação de entradas.
-Gerenciamento de Estados: Manter a consistência dos dados no array de amigos e atualizar a interface de forma dinâmica.
-Organização do Código: Estruturar as funções de forma modular e garantir que as funcionalidades não se sobreponham.
+ - Manipulação do DOM: Integrar a lógica de manipulação do DOM com a validação de entradas.
+ - Gerenciamento de Estados: Manter a consistência dos dados no array de amigos e atualizar a interface de forma dinâmica.
+ - Organização do Código: Estruturar as funções de forma modular e garantir que as funcionalidades não se sobreponham.
 - **Como superei esses desafios**
-Pesquisa e Prática: Busquei referências e tutoriais sobre manipulação do DOM em JavaScript e a utilização de arrays para gerenciar estados.
-Refatoração do Código: Dividi as funcionalidades em funções separadas (adicionarAmigo, atualizarLista, sortearAmigo) para facilitar a manutenção e o entendimento.
-Testes Contínuos: Utilize o console do navegador para depurar e verificar o fluxo do código, garantindo que cada parte funcionasse conforme o esperado.
+ - Pesquisa e Prática: Busquei referências e tutoriais sobre manipulação do DOM em JavaScript e a utilização de arrays para gerenciar estados.
+ - Refatoração do Código: Dividi as funcionalidades em funções separadas (adicionarAmigo, atualizarLista, sortearAmigo) para facilitar a manutenção e o entendimento.
+ - Testes Contínuos: Utilize o console do navegador para depurar e verificar o fluxo do código, garantindo que cada parte funcionasse conforme o esperado.
 - **Quais implementações que achei mais interessantes**
-Sorteio Aleatório: A utilização de Math.random() para sortear de forma justa e aleatória um amigo da lista.
-Atualização Dinâmica da Interface: A maneira como o DOM é manipulado para refletir as mudanças no array de amigos em tempo real.
-Validação de Entrada: A implementação da verificação para evitar nomes vazios, garantindo que o usuário insira dados válidos antes de prosseguir com o sorteio.
+ - Sorteio Aleatório: A utilização de Math.random() para sortear de forma justa e aleatória um amigo da lista.
+ - Atualização Dinâmica da Interface: A maneira como o DOM é manipulado para refletir as mudanças no array de amigos em tempo real.
+ - Validação de Entrada: A implementação da verificação para evitar nomes vazios, garantindo que o usuário insira dados válidos antes de prosseguir com o sorteio.
 ## 🛠️ Melhorias Futuras
 - Adicionar a funcionalidade de remover nomes da lista.
 - Implementar a verificação para evitar nomes duplicados.
